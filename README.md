@@ -12,17 +12,17 @@ ATMEGA2560
 APM2.8
 
 
-![GUI of OSM Application for Start and Destination points showing the current and intended positions respectively.  (The dotted line represents the path followed by robot). ](https://github.com/Sree-Aslesh/Autonomous-ATV-using-ROS-API/blob/master/media/image002.jpg)
+![GUI of OSM Application for Start and Destination points showing the current and intended positions respectively.  (The dotted line represents the path followed by robot). ](https://github.com/Sree-Aslesh/Autonomous-ATV-IIT-Kharagpur/tree/master/media/image002.jpg)
 
 
 GUI of OSM Application for Start and Destination points showing the current and intended positions respectively.  (The dotted line represents the path followed by robot)
 
 
-![rqt graph of all active nodes and topics for executing the robot movements in this study ](https://github.com/Sree-Aslesh/Autonomous-ATV-using-ROS-API/blob/master/media/image002%20(1).jpg)
+![rqt graph of all active nodes and topics for executing the robot movements in this study ]https://github.com/Sree-Aslesh/Autonomous-ATV-IIT-Kharagpur/tree/master/media/image002%20(1).jpg)
 
 rqt graph of all active nodes and topics for executing the robot movements in this study
 
 
-![3D scatter plotting of distant obstacle](https://github.com/Sree-Aslesh/Autonomous-ATV-using-ROS-API/blob/master/media/Screenshot%20from%202018-05-28%2011-48-58.png)
+![3D scatter plotting of distant obstacle](https://github.com/Sree-Aslesh/Autonomous-ATV-IIT-Kharagpur/tree/master/media/Screenshot%20from%202018-05-28%2011-48-58.png)
 
 3D scatter plotting of distant obstacles.
