@@ -11,23 +11,34 @@ ATMEGA2560
 APM2.8
 Methane and CO2 sensors
 
-![Atv](media/image004.jpg)
+<p align="center">
+  <img width="300" height="300" src="media/image004.jpg">
+</p>
+
 
 
 The above image shows our setup of the ATV designed. A kinect was later on added to the setup for visual data and point clouds.
 
-![GUI of OSM Application for Start and Destination points showing the current and intended positions respectively.  (The dotted line represents the path followed by robot). ](media/image002.jpg)
+<p align="center">
+  <img width="450" height="300" src="media/image002.jpg">
+</p>
+
 
 
 GUI of OSM Application for Start and Destination points showing the current and intended positions respectively.  (The dotted line represents the path followed by robot)
 
 
-![rqt graph of all active nodes and topics for executing the robot movements in this study ](media/image002%20(1).jpg)
+<p align="center">
+  <img width="580" height="300" src="media/image002%20(1).jpg">
+</p>
 
 rqt graph of all active nodes and topics for executing the robot movements in this study
 
 
-![3D scatter plotting of distant obstacle](media/Screenshot%20from%202018-05-28%2011-48-58.png)
+<p align="center">
+  <img width="600" height="300" src="media/Screenshot%20from%202018-05-28%2011-48-58.png">
+</p>
+
 
 3D scatter plotting of distant obstacles.
 
